@@ -34,6 +34,19 @@ _A React app that tells the future with Tarot cards._
 * 10:00am : Research Api's
 * 11:00 : Research ideas...
 
+### MVP
+* Make an application I can be proud of.
+* This app will read Tarot cards to the user.
+* Use cool APIs.
+* Have a place to ask questions. 
+
+### Stretch Goals
+*  Use animation.
+*  Use a music Api.
+*  Have a live chat with a real psychic.
+
+
+
 
 ## Setup/Installation Requirements
 
