@@ -3,7 +3,7 @@
 
 #### By _**Brit Wallace**_
 
-#### A React app that . 
+#### A React app that reads your Tarot cards. 
 
 ## Technologies Used
 
@@ -19,11 +19,20 @@
 
 ## Description
 
-_A React app that ._
+_A React app that tells the future with Tarot cards._
 
 ## Component Diagram
 
 ![component diagram](./src/Img/diagram.jpeg)
+
+### Research & Planning Log
+#### Friday, 06/17
+* 4:00pm : Research Tarot and Capstone Proposal ideas  
+* 5:00 : research libraries for animations
+
+#### Saturday, 6/18
+* 10:00am : Research Api's
+* 11:00 : Research ideas...
 
 
 ## Setup/Installation Requirements
